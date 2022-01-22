@@ -40,7 +40,7 @@ AppAsset::register($this);
                     </button>
 
                     <!-- Text Logo -->
-                    <a class="navbar-brand" href="index.html"><i class="fa fa-book" aria-hidden="true"></i> Kindle</a>
+                    <a class="navbar-brand" href="index.html"><i class="fa fa-book" aria-hidden="true"></i>Kanselyariya</a>
 
                     <!-- Image Logo -->
                     <!-- <a class="navbar-brand" href="index.html"><img src="assets/images/logo.png"></a> -->
